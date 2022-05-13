@@ -1,0 +1,4 @@
+20220509	18:44:06	877ea869-d281-4419-8ae3-13015cfe9980	Error: Not allowed by CORS
+20220509	18:44:11	ecdcfec7-2a69-4d82-b71d-115b30d9083e	Error: Not allowed by CORS
+20220509	18:46:27	8231a189-defc-4006-b179-aee5a98d7d83	Error: Not allowed by CORS
+20220510	11:26:54	7523a745-d10a-42ec-a4ff-9a0dcbc03db2	Error: Not allowed by CORS

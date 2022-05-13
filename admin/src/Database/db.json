@@ -1,0 +1,39 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "name": "Parthiv",
+      "username": "Creator",
+      "email": "parthiv.sperious@gmail.com",
+      "project": "ReactJS & Node JS"
+    },
+    {
+      "id": 2,
+      "name": "Priyank",
+      "username": "priyank",
+      "email": "priyank.sperious@gmail.com",
+      "project": "ReactJS"
+    },
+    {
+      "id": 3,
+      "name": "Jashoda",
+      "username": "jashoda",
+      "email": "jashoda.sperious@gmail.com",
+      "project": "ReactJS"
+    },
+    {
+      "id": 4,
+      "name": "Rajnik",
+      "username": "rajnik",
+      "email": "rajnik.sperious@gmail.com",
+      "project": "ReactJS"
+    },
+    {
+      "name": "Sagar",
+      "email": "sagar.sperious@gmail.com",
+      "username": "sagar",
+      "project": "Node JS",
+      "id": 5
+    }
+  ]
+}
